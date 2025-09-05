@@ -1,4 +1,4 @@
 # simple-html
 
-<h1>Author: Michelle Rodrigues</h1>
+<h1>Author: Michelle</h1>
 
